@@ -1,0 +1,2 @@
+activate py3
+spyder

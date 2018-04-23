@@ -1,2 +1,7 @@
 #Misc
 start_spyder.sh
+start_jupyter.sh
+update_db.sh
+.ipynb_checkpoints
+w40k.zip
+w40k-master
